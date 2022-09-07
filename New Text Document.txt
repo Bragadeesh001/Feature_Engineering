@@ -1,0 +1,18 @@
+Life cycle of a Data science projects
+
+1. data collection-- from company side, 3rd party api, survey
+2. Feature Engineering-- Handling Missing Values
+
+Why are their missing values? eg. survey--Depression Survey
+i. they hesitate to put down the information
+ii. Survey informations are not that valid
+iii. Men hesitate to show salary
+iv. woman hesitate to tell age
+v. People may have died
+
+data science project-- dataset should be collected from multiplle sources
+
+data that will be missing---
+i. continious data, discrete data
+ii. categorical data
+
